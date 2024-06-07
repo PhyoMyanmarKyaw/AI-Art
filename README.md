@@ -1,8 +1,7 @@
 # AI-Art
 
-I am a big fan of Stable Diffusion. I am creating this sample project to test Stable Diffusion using CoreML.</br>
-This is the beginning of text-to-image generation and needs a lot of work to make it perfect.</br>
-So feel free to contribute to this project as well.</br></br>
+<i>❤️ I am a big fan of Stable Diffusion ❤️</i></br>
+I am creating this sample project to test Stable Diffusion using apple's CoreML: [ML-Stable-Diffusion](https://github.com/apple/ml-stable-diffusion).</br> This is the beginning of text-to-image generation and needs a lot of work to make it perfect. So feel free to contribute to this project as well.</br></br>
 
 ![demo](https://github.com/PhyoMyanmarKyaw/AI-Art/assets/6734127/bcc4bbfd-291f-4fe7-bf48-22c4e1ba953e)
 
@@ -25,6 +24,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## Acknowledgements
 
 - [Hugging Face](https://huggingface.co/) for providing the CoreML models.
+- [Apple's ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) for their implementation and resources.
 - The creators and contributors of Stable Diffusion.
 
 ## Contact
