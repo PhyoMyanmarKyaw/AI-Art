@@ -8,7 +8,8 @@ I am creating this sample project to test Stable Diffusion using apple's CoreML:
 ## How to Run This Project
 
 1. **Download CoreML Models**:
-   - You must download the CoreML version of Stable Diffusion from [Hugging Face CoreML Community](https://huggingface.co/coreml-community).
+   - Since the size is too big (over 3GB), I didn't include it in the project file. You must download the CoreML version of Stable Diffusion from [Hugging Face CoreML Community](https://huggingface.co/coreml-community). These are ready-made (already converted) CoreML versions. Alternatively, you can convert your own model.
+   - (I haven't tested with the XL version; currently, I am using SD 1.5 version.)
 
 2. **Prepare the Model Files**:
    - Copy all files from the `split-einsum` directory and place them under the `AI-Art` project's `Resources > MLResources`.
